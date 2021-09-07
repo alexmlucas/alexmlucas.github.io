@@ -1,39 +1,34 @@
-## Alex Lucas Portfolio
+## Alex Lucas
 
-You can use the [editor on GitHub](https://github.com/alexmlucas/alexmlucas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here are some accessible instruments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instrument One
 
-### Markdown
+A bespoke, accessible guitar-inspired instrument. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- it does this
+- and this
+- plus this too!
 
-```markdown
-Syntax highlighted code block
+![Image](/images/instrument_one.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Instrument Two
 
-- Bulleted
-- List
+A bespoke drum machine. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- it does this
+- and this
+- plus this too!
 
 ![Image](/images/instrument_two.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Instrument Three
 
-### Jekyll Themes
+A bespoke, accessible violin-inspired instrument. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexmlucas/alexmlucas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- it does this
+- and this
+- plus this too!
 
-### Support or Contact
+![Image](/images/instrument_three.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
