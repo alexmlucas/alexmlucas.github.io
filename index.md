@@ -1,5 +1,3 @@
-## A portfolio of accessible instruments.
-
 Here are some accessible instruments.
 
 ### Instrument One
